@@ -1,0 +1,21 @@
+.sec1 {
+    background-image: url("image/sea.jpg");
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    background-position: center;
+
+}
+
+.sec2 {
+    background-color: rgb(238, 238, 236);
+}
+
+.sec5 {
+    background-image: url("image/sea.jpg");
+    background-size: cover;
+    height: 200px;
+    width: 100%;
+    background-position: center;
+
+}
